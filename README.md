@@ -1,4 +1,4 @@
-# dsi_project_01
+# dsi_project_01: A console-based program implementation using Java with OOP logic for management of products in a store
 
 Problem Statement:
 You are starting a small business. So, you need to keep a ledger for all the buys, sells, and available balances on your account. 
